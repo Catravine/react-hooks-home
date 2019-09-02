@@ -13,3 +13,4 @@ Here are the main course highlights:
 - Reflect on why hooks were introduced and why they’re a better model for how the React engine really works.
 - Build more complex apps with more advanced hooks.
 
+# react-hooks-home
